@@ -1,0 +1,55 @@
+{
+  "istifadeciler": [
+    {
+      "id": "69be",
+      "email": "ilkin@mail.com",
+      "password": "123456",
+      "basket":[],
+      "favorites":[]
+    },
+    {
+      "id": "3e0e",
+      "email": "bulbul@mail.com",
+      "password": "123",
+      "basket":[],
+      "favorites":[]
+    }
+  ],
+  "mehsullar": [
+    {
+        "id":"apl1",
+        "name":"apple iphone 15",
+        "image":"https://almali.az/wp-content/uploads/2023/10/639185-Product-0-I-638301489606359011_084b2b2e-da1b-49bc-a1cc-3e6a9a5326bc.webp",
+        "price":3000,
+        "stock":5
+    },
+    {
+        "id":"apl2",
+        "name":"apple iphone 15 pro",
+        "image":"https://smarton.az/storage/products/50851/231108150112172839.webp",
+        "price":3300,
+        "stock":1
+    },
+    {
+        "id":"apl3",
+        "name":"apple iphone 15 pro max",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZV7-U_7glZYoVx2rsy574zzL8GwIi-pKCkw&s",
+        "price":3500,
+        "stock":2
+    },
+    {
+        "id":"apl4",
+        "name":"apple iphone 16 pro",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdfySMZFEidl8XhD1DA7lTTuRn3V2y0yDvg&s",
+        "price":4000,
+        "stock":5
+    },
+    {
+        "id":"apl5",
+        "name":"apple iphone 16 pro max",
+        "image":"https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/tile/Apple-iPhone-16-Pro-hero-240909-lp.jpg.news_app_ed.jpg",
+        "price":5000,
+        "stock":15
+    }
+  ]
+}
